@@ -15,7 +15,7 @@
 
 > *"Building reliable, real-time backend systems that financial and healthcare teams can depend on."*
 
-I'm a **Backend Software Engineer** at **Citibank** with nearly **6 years** of experience across **financial services** and **healthcare**. I focus on **distributed systems**, **event-driven architectures**, and **real-time data platforms**, from Kafka streaming and Spring Boot microservices to cloud-native pipelines on Azure and AWS.
+I'm a **Software Engineer** at **Citibank** with nearly **6 years** of experience across **financial services** and **healthcare**. I focus on **distributed systems**, **event-driven architectures**, and **real-time data platforms**, from Kafka streaming and Spring Boot microservices to cloud-native pipelines on Azure and AWS.
 
 At Citibank, I replaced legacy Hadoop batch jobs with Kafka streaming services, cutting transaction reporting latency from **15 minutes to under 2 seconds**.
 
